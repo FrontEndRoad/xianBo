@@ -1,3 +1,4 @@
+//水波、电波效果
 function SiriWave(opt){
 	this.opt = opt || {};
 
